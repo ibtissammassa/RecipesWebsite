@@ -7,3 +7,6 @@
 .card{
     @apply bg-white rounded overflow-hidden shadow-md hover:shadow-xl
 }
+.botton{
+    @apply border rounded-full py-3 px-2 text-sm
+}
